@@ -32,6 +32,8 @@ TODO: Add your explanation
 A slight improvement in the kaggle score has been found after changing the hyper parameters.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+| Model | hpo1    | hpo2    | hpo3  | score
+| :---:   | :---: | :---:   | :---: | :---: |
 model 	hpo1 	hpo2 	hpo3 	score
 initial 	default 	default 	default 	1.380
 add_features 	default 	default 	default 	0.684
