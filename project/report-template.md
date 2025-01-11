@@ -36,7 +36,7 @@ A slight improvement in the kaggle score has been found after changing the hyper
 | :---:       | :---:          | :---:           | :---:          | :---: |
 | initial     | default        | default         | default        | 1.380 |
 | add_features| default 	   | default         | default 	      | 0.684 |
-| hpo 	      | CAT(iterations)| RF(n_estimators)| XT(n_estimators) 	GB(num_boost_round, num_leaves) 	scheduler, searcher 	0.684
+| hpo 	      | CAT(iterations)| RF(n_estimators)| XT(n_estimators) GB(num_boost_round, num_leaves) scheduler, searcher 	| 0.684
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
