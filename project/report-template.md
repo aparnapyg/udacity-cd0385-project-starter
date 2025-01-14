@@ -34,9 +34,9 @@ A slight improvement in the kaggle score has been found after changing the hyper
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 | Model       | hpo1           | hpo2            | hpo3           | score |
 | :---:       | :---:          | :---:           | :---:          | :---: |
-| initial     | default        | default         | default        | 1.380 |
-| add_features| default 	   | default         | default 	      | 0.684 |
-| hpo 	      | CAT(iterations)| RF(n_estimators)| XT(n_estimators) GB(num_boost_round, num_leaves) scheduler, searcher 	| 0.684
+| initial     | default        | default         | default        | 1.801 |
+| add_features| default 	   | default         | default 	      | 0.695 |
+| hpo 	      | CAT(iterations)| RF(n_estimators)| XT(n_estimators) GB(num_boost_round, num_leaves) scheduler, searcher 	| 0.695
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
