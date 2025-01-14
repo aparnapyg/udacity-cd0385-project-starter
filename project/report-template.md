@@ -24,12 +24,12 @@ WeightedEnsemble_L3 with hyper parameter optimized
 ### How much better did your model preform after adding additional features and why do you think that is?
 After adding the additional feature, around 25% improvement found in the model score. Adding relevant features based on domain knowledge will result in more accurte predictions.
 
-i## Hyper parameter tuning
+## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-TODO: Add your explanation
+A slight improvement in the kaggle score has been found after changing the hyper parameters.
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
-A slight improvement in the kaggle score has been found after changing the hyper parameters.
+Will spend more time on future engineering and hyper parameter tuning as both are vital processess for building an efficient model.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 | Model       | hpo1           | hpo2            | hpo3           | score |
